@@ -1,0 +1,7 @@
+matplotlib
+networkx
+numpy
+scipy
+scikit-learn
+python-louvain
+twarc
